@@ -4,7 +4,7 @@ my network security portfolio
 
 ## Student Information
 Name: Nurul Syahida Binti Shamsuddin  
-Course: Bachelor Of Computer Science (Internet Computing) With Honor
+Course: Bachelor Of Computer Science (Internet Computing) With Honor   
 Subject: CSA30203 Special Topics in Computer Network Security  
 
 ---

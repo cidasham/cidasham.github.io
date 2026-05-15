@@ -1,6 +1,6 @@
 ## Wireshark Packet Analysis
 
-<img src="wireshark.png" width="600">
+<img src="wireshark.jpg" width="600">
 
 This activity was conducted using Wireshark to analyze network traffic
 and observe communication protocols such as TCP, UDP, and HTTP.

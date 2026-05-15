@@ -11,3 +11,9 @@ The wireshark show the traffic by client hello and server hello.
 On image 2, shows encrypted network communication captured using Wireshark with the TLSv1.3 protocol. 
 The packets include Client Hello, Server Hello, Change Cipher Spec, and Application Data,
 which are part of the secure connection process.
+
+<img src="mailvelope.jpg" width="600">
+
+This shows the use of Mailvelope for email encryption through Gmail. 
+The feature allows users to import a PGP public key to secure email communication and protect sensitive information.
+It helps encrypt and secure email messages so that only the intended receiver can read the content safely.
